@@ -1,1 +1,1 @@
-# Project_Using_Logistic_Regression
+# Bank_Data_Analysis_Using_Logistic_Regression
